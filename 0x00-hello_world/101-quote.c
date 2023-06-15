@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
  * main - printing to the standard error
  * Return: Returns 1 when successfull
