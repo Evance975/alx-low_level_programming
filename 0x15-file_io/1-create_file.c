@@ -2,8 +2,10 @@
 
 /**
  * create_file - a function that reates a file.
- * @filename: a variable to a pointer to the name of the file to be created create.
- * @text_content: variable rep a pointer to a string to write into the file.
+ * @filename: a variable to a pointer to
+ * the name of the file to be created create.
+ * @text_content: variable rep a pointer to
+ * a string to write into the file.
  *
  * Return: (1) success, (-1) fails
  */
